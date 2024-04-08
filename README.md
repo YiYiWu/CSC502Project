@@ -1,1 +1,1 @@
-# CSC502Project
+# PSCAN
